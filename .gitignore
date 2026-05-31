@@ -1,0 +1,12 @@
+Debug/
+
+*.o
+*.obj
+*.d
+*.d_raw
+*.out
+*.map
+*_linkInfo.xml
+
+.DS_Store
+Thumbs.db
